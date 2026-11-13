@@ -3,8 +3,8 @@ class Raydump < Formula
 
   desc "Decrypt Raycast exports and extract them as Markdown and JSON"
   homepage "https://github.com/bixvongoeler/raydump"
-  url "https://github.com/bixvongoeler/raydump/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "d4411f223347d345682bfaa9729c9d877e4c7d9f8340b6e685f041634d0d3a3a"
+  url "https://github.com/bixvongoeler/raydump/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "caa304f17f02138d4dc0013d1271ecd3059e1a926ad95a0585d4cb0d679bbc7d"
   license "MIT"
 
   depends_on "node"
